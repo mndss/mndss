@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there!! 👋 I'm Eduardo. 
 
-<!--
-**mndss/mndss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [CPP](https://github.com/mndss/42_CPP)
+- 👨‍🎓 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 🌱 I’m currently learning C, Node.js, Vue.js and NoSQL DataBases.
+- 💬 Ask me about anything, it will a pleasure to help
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/dumendes99">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dumendes99&theme=tokyonight&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendes99&theme=tokyonight&layout=compact" />
+</a>
+
+## 📫 Contact with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/eduardo-lima-mendes-652a52213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:eduardomendes.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
