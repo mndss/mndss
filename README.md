@@ -2,7 +2,7 @@
 
 About Me
 
-- 🔭 I’m currently working on [42-Containers](https://github.com/mndss/42-Containers)
+- 🔭 I’m currently working on [42_Containers](https://github.com/mndss/42_Containers)
 - 👨‍🎓 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🌱 I’m currently learning C, Node.js, Vue.js and NoSQL DataBases.
 - 💬 Ask me about anything, it will a pleasure to help
